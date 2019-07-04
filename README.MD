@@ -49,7 +49,7 @@ docker run --rm -it -v `pwd`:/builds -u `id -u`:`id -g` hardwario/gcc-arm-embedd
 * MD5: 13747255194398ee08b3ba42e40e9465
 
 ## Additional packages
-* nRF-Command-Line-Tools_10_1_1_Linux-amd64.deb
+* nRF-Command-Line-Tools_10_2_1_Linux-amd64.deb
 * JLink_Linux_V644e_x86_64.deb
 * python-2.7
 * python-pip
