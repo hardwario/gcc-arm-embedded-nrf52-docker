@@ -1,4 +1,4 @@
-FROM hardwario/gcc-arm-embedded:8-2018-q4-major
+FROM hardwario/gcc-arm-embedded:9-2019-q4-major
 
 ENV LC_ALL=C.UTF-8 LANG=C.UTF-8
 
